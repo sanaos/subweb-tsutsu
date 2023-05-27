@@ -254,10 +254,10 @@ export default {
           "自动判断客户端": "auto",
         },
         customBackend: {
-          "つつの专属后端 (六核负载均衡-支持IPv4/IPv6)": "https://api.tsutsu.one/sub?",
+          "老铁专属": "https://probable-keriann-hilaotiec79vkxxkss.koyeb.app/sub?",
         },
         backendOptions: [
-          { value: "https://api.tsutsu.one/sub?" },
+          { value: "https://probable-keriann-hilaotiec79vkxxkss.koyeb.app/sub?" },
         ],
         remoteConfig: [
           {
