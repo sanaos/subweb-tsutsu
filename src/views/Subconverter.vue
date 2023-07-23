@@ -263,11 +263,6 @@ export default {
 	  {
             label: "つつの专属规则",
             options: [
-	      {
-                label: "DNS防泄漏",
-                value:
-                  "https://cf.buliang0.cf/clash-rules/nodnsleak.ini"
-              },
               {
                 label: "つつ-全分组",
                 value:
