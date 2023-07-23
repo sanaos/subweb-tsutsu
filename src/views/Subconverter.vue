@@ -260,7 +260,7 @@ export default {
           { value: "https://probable-keriann-hilaotiec79vkxxkss.koyeb.app/sub?" },
         ],
         remoteConfig: [
-	  {
+          {
             label: "つつの专属规则",
             options: [
               {
