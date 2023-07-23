@@ -260,14 +260,14 @@ export default {
           { value: "https://probable-keriann-hilaotiec79vkxxkss.koyeb.app/sub?" },
         ],
         remoteConfig: [
-	   options: [
-	     {
+	  {
+            label: "つつの专属规则",
+            options: [
+	      {
                 label: "DNS防泄漏",
                 value:
                   "https://cf.buliang0.cf/clash-rules/nodnsleak.ini"
               },
-           {
-            label: "つつの专属规则",
               {
                 label: "つつ-全分组",
                 value:
