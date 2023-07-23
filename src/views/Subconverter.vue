@@ -497,7 +497,7 @@ export default {
   mounted() {
     this.form.clientType = "clash";
     this.form.customBackend = "https://probable-keriann-hilaotiec79vkxxkss.koyeb.app/sub?";
-    this.form.remoteConfig = "https://cf.buliang0.cf/clash-rules/nodnsleak.ini";
+    this.form.remoteConfig = "https://cdn.jsdelivr.net/gh/lhl77/sub-ini@main/tsutsu-full.ini";
     //this.getBackendVersion();
   },
   methods: {
