@@ -260,6 +260,11 @@ export default {
           { value: "https://probable-keriann-hilaotiec79vkxxkss.koyeb.app/sub?" },
         ],
         remoteConfig: [
+	   {
+                label: "DNS防泄漏",
+                value:
+                  "https://cf.buliang0.cf/clash-rules/nodnsleak.ini"
+              },
           {
             label: "つつの专属规则",
             options: [
@@ -496,8 +501,8 @@ export default {
   },
   mounted() {
     this.form.clientType = "clash";
-    this.form.customBackend = "https://api.tsutsu.one/sub?";
-    this.form.remoteConfig = "https://cdn.jsdelivr.net/gh/lhl77/sub-ini@main/tsutsu-full.ini";
+    this.form.customBackend = "https://probable-keriann-hilaotiec79vkxxkss.koyeb.app/sub?";
+    this.form.remoteConfig = "https://cf.buliang0.cf/clash-rules/nodnsleak.ini";
     //this.getBackendVersion();
   },
   methods: {
