@@ -254,10 +254,10 @@ export default {
           "自动判断客户端": "auto",
         },
         customBackend: {
-          "老铁专属": "https://dusty-adriana-hilaotie.koyeb.app/sub?",
+          "老铁专属": "https://subconver-hilaotie.koyeb.app/sub?",
         },
         backendOptions: [
-          { value: "https://dusty-adriana-hilaotie.koyeb.app/sub?" },
+          { value: "https://subconver-hilaotie.koyeb.app/sub?" },
         ],
         remoteConfig: [
           {
