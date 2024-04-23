@@ -288,11 +288,6 @@ export default {
                 value:
                   "https://cdn.jsdelivr.net/gh/lhl77/sub-ini@main/tsutsu-full-urltest-imm.ini"
               },
-	      {
-                label: "DNS防泄漏",
-                value:
-                  "https://cf.buliang0.cf/clash-rules/nodnsleak.ini"
-              },
               {
                 label: "Skicat",
                 value:
