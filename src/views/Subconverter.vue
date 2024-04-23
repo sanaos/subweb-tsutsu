@@ -263,11 +263,6 @@ export default {
           {
             label: "つつの专属规则",
             options: [
-	      {
-                label: "DNS防泄漏",
-                value:
-                  "https://cf.buliang0.cf/clash-rules/nodnsleak.ini"
-              },
               {
                 label: "つつ-全分组",
                 value:
@@ -292,6 +287,11 @@ export default {
                 label: "Immtelecom",
                 value:
                   "https://cdn.jsdelivr.net/gh/lhl77/sub-ini@main/tsutsu-full-urltest-imm.ini"
+              },
+	      {
+                label: "DNS防泄漏",
+                value:
+                  "https://cf.buliang0.cf/clash-rules/nodnsleak.ini"
               },
               {
                 label: "Skicat",
