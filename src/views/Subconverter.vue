@@ -254,10 +254,10 @@ export default {
           "自动判断客户端": "auto",
         },
         customBackend: {
-          "老铁专属": "https://subconver-hilaotie.koyeb.app/sub?",
+          "老铁专属": "https://p01--subweb--mspfljbftfzq.code.run/sub?",
         },
         backendOptions: [
-          { value: "https://subconver-hilaotie.koyeb.app/sub?" },
+          { value: "https://p01--subweb--mspfljbftfzq.code.run/sub?" },
         ],
         remoteConfig: [
           {
